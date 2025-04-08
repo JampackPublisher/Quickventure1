@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Quickventure-1.0";
 const contentToCache = [
     "Build/QuickventureWebGL.loader.js",
-    "Build/QuickventureWebGL.framework.js",
-    "Build/QuickventureWebGL.data",
-    "Build/QuickventureWebGL.wasm",
+    "Build/QuickventureWebGL.framework.js.unityweb",
+    "Build/QuickventureWebGL.data.unityweb",
+    "Build/QuickventureWebGL.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
